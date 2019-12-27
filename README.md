@@ -48,8 +48,13 @@ npm run electron-build
 `start` : start your application
     
 `server` : start your application with live-reload
+
+## License
+
+MIT © [Electron React Live Reload][license]
     
 
 [ref1]: https://medium.com/@johndyer24/building-a-production-electron-create-react-app-application-with-shared-code-using-electron-builder-c1f70f0e2649
 [ref2]: https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3
 [react eject]: https://github.com/facebook/create-react-app/blob/master/packages/cra-template/template/README.md#npm-run-eject
+[license]: https://github.com/subhamayd2/electron-react-live-reload/blob/master/LICENSE
