@@ -8,7 +8,7 @@
 First, clone the repo:
 
 ```bash
-git clone --depth 1 --single-branch --branch master https://github.com/electron-react-live-reload/electron-react-live-reload.git <your-project-name>
+git clone --depth 1 --single-branch --branch master https://github.com/subhamayd2/electron-react-live-reload <your-project-name>
 ```
 
 And then install the dependencies with yarn.
